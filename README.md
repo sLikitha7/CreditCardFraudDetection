@@ -1,11 +1,11 @@
 
-# 🔐 Credit Card Fraud Detection with Imbalanced Dataset Handling
+# Credit Card Fraud Detection with Imbalanced Dataset Handling
 
 An end-to-end machine learning project focused on identifying fraudulent credit card transactions using advanced resampling techniques and classification models. This solution addresses the real-world challenge of class imbalance while maximizing detection performance using interpretable and scalable methods.
 
 ---
 
-## ✅ Key Highlights
+## Key Highlights
 
 - Utilized the popular **Kaggle Credit Card Fraud dataset** (~284,807 transactions)
 - Performed **data cleaning**, transformation, and **feature engineering**
@@ -21,7 +21,7 @@ An end-to-end machine learning project focused on identifying fraudulent credit 
 
 ---
 
-## 🧱 Key Components
+## Key Components
 
 ### 1. Data Cleaning & Preparation
 - Removed nulls and irrelevant columns
@@ -52,7 +52,7 @@ An end-to-end machine learning project focused on identifying fraudulent credit 
 
 ---
 
-## 📁 Deliverables
+## Deliverables
 
 - `pipeline.py`: Class-based reusable ML pipeline
 - `main.py`: Executable script for end-to-end fraud detection
@@ -62,7 +62,7 @@ An end-to-end machine learning project focused on identifying fraudulent credit 
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 - **Python**: Core programming language
 - **Pandas, NumPy**: Data manipulation
@@ -73,7 +73,7 @@ An end-to-end machine learning project focused on identifying fraudulent credit 
 
 ---
 
-## 📈 Business Relevance
+## Business Relevance
 
 - **Fraud detection** is critical for financial security and minimizing losses
 - Realistic handling of **class imbalance** simulates actual deployment scenarios
@@ -82,7 +82,7 @@ An end-to-end machine learning project focused on identifying fraudulent credit 
 
 ---
 
-## 👩‍💻 About the Author
+## About the Author
 
 **Likitha Shatdarsanam**  
 MS in Information Systems and Operations Management – Data Science  
