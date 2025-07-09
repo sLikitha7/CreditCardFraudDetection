@@ -1,0 +1,6 @@
+Due to file size limits, the dataset is not included in this repository.
+You can download the dataset manually from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, extract the file and place creditcard.csv in the project root folder.
