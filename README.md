@@ -71,7 +71,7 @@ An end-to-end machine learning pipeline built to detect fraudulent credit card t
 
 ---
 
-## 🧪 Evaluation Summary
+##  Evaluation Summary
 
 | Model                    | Precision | Recall | F1-Score | ROC AUC | PR AUC |
 |-------------------------|-----------|--------|----------|---------|--------|
@@ -81,11 +81,11 @@ An end-to-end machine learning pipeline built to detect fraudulent credit card t
 | Isolation Forest        | 0.0155    | 1.0000 | 0.0305   | -       | -      |
 | One-Class SVM           | 0.0144    | 1.0000 | 0.0284   | -       | -      |
 
-> 🎯 **Insight:** While advanced models are powerful, simple interpretable models like Logistic Regression may outperform in highly imbalanced domains when combined with proper resampling.
+>  **Insight:** While advanced models are powerful, simple interpretable models like Logistic Regression may outperform in highly imbalanced domains when combined with proper resampling.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.x**
 - **Pandas, NumPy** – Data manipulation
@@ -96,7 +96,7 @@ An end-to-end machine learning pipeline built to detect fraudulent credit card t
 
 ---
 
-## 📦 Deliverables
+##  Deliverables
 
 - `pipeline.py`: Class-based modular ML pipeline
 - `main.py`: Orchestrator script for pipeline execution
@@ -121,7 +121,7 @@ An end-to-end machine learning pipeline built to detect fraudulent credit card t
 MS in Information Systems and Operations Management – Data Science  
 University of Florida  
 
-📧 Email: [shatdars.likitha@ufl.edu](mailto:shatdars.likitha@ufl.edu)  
-🔗 LinkedIn: [linkedin.com/in/likitha-shatdarsanam-395362194](https://www.linkedin.com/in/likitha-shatdarsanam-395362194)
+ Email: [shatdars.likitha@ufl.edu](mailto:shatdars.likitha@ufl.edu)  
+ LinkedIn: [linkedin.com/in/likitha-shatdarsanam-395362194](https://www.linkedin.com/in/likitha-shatdarsanam-395362194)
 
 ---

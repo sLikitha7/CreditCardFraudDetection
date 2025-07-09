@@ -582,9 +582,9 @@ if __name__ == "__main__":
     print("Feature importance analyzed")
     print("Anomaly detection models evaluated")
     
-    print(f"\n🏆 Best Model: {best_model[0] if best_model else 'N/A'}")
+    print(f"\n Best Model: {best_model[0] if best_model else 'N/A'}")
     
-    print("\n📊 Key Insights for Fraud Detection:")
+    print("\n Key Insights for Fraud Detection:")
     print("• Recall is crucial - we want to catch fraudulent transactions")
     print("• Precision matters - avoid flagging too many legitimate transactions")
     print("• F1-score provides good balance between precision and recall")
